@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "lib/firecrawl.js", "app/page.js", "app/layout.js"  ],
+, "lib/firecrawl.js", "app/page.js", "app/layout.js", "lib/client.js", "lib/server.js", "lib/utils.js", "lib/middleware.js"  ],
   "exclude": ["node_modules"]
 }
